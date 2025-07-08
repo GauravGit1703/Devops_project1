@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: go-web-app
-        image: gauravshama1703/go-web-app:v1
+        image: gauravsharma1703/go-web-app:v1
         resources:
           limits:
             memory: "128Mi"
